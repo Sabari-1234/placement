@@ -1,5 +1,8 @@
 package org.example.cart;
 
+import java.util.HashMap;
+import java.util.Map;
+
 public class Cart {
     int productId;
     int buyerId;
@@ -54,4 +57,6 @@ public class Cart {
                 ", price=" + price +
                 '}';
     }
+    
+
 }
