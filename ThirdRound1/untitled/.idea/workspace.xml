@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0d16713-5e6e-41c9-a3b3-1234a2976711" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/CDLL/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/CDLL/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/CSLL/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/CSLL/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/Queue/QueueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/Queue/QueueArrayStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/QueueDynamic/QueueArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/QueueDynamic/QueueArrayStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/Stack/StackArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/Stack/StackArrayStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/StackDynamic/StackArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/StackDynamic/StackArrayStatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/StackLL/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DataStructure/src/main/java/org/StackLL/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TicTocToe/src/main/java/org/game/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../second-round/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../second-round/src/main/java/org/zohoL2Chennai/FibonacciOptimizedDP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2iE2r81WBwqMZKwnlwmDkl741yM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/home/sabarinathansadaiyan/Desktop/ZOHO/ThirdRound1/untitled/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d16713-5e6e-41c9-a3b3-1234a2976711" name="Changes" comment="" />
+      <created>1719041617057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719041617057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

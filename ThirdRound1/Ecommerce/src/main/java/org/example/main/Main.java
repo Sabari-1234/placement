@@ -117,7 +117,6 @@ public class Main {
                 Product product=DataBase.products.get(cart.getProductId());
                 product.setQuantity(product.getQuantity()- cart.getQuantity());
             }
-
             DataBase.history.put(DataBase.loggedInUserId,al);
             DataBase.cart.remove(DataBase.loggedInUserId);
             System.out.println("buy successfully");
@@ -140,19 +139,18 @@ public class Main {
             al.add(cart);
             DataBase.cart.put(DataBase.loggedInUserId,al);
 
-
-
         } else if (!DataBase.products.containsKey(pid)) {
             System.out.println("product not found");
         }
         else{
-            System.out.println("not sufficient quantity quantity available:"+DataBase.products.get(pid).getQuantity());
+            System.out.println("not sufficient quantity, quantity available:"+DataBase.products.get(pid).getQuantity());
         }
 
     }
 
+
     private static void updateProduct() {
-        System.out.println("enter product id to delete:");
+        System.out.println("enter product id to update:");
         int id=sc.nextInt();
         if(DataBase.products.containsKey(id) && DataBase.products.get(id).getSellerId()==DataBase.loggedInUserId){
             System.out.println("enter product name");
